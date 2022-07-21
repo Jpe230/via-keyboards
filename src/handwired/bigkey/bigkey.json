@@ -1,0 +1,16 @@
+{
+  "name": "Jpe230 BigKey",
+  "vendorId": "0xE230",
+  "productId": "0x7175",
+  "lighting": "qmk_backlight_rgblight",
+  "matrix": { "rows": 1, "cols": 3 },
+  "customKeycodes": [
+    { "name": "JP KC", "title": "JP Keycode", "shortName": "JPKC" }
+  ],
+  "layouts": {
+    "keymap": [
+      ["0,2",{"w":4,"h":4},"0,0"],
+      ["0,1"]
+    ]
+  }
+}

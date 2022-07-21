@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/the-via/keyboards.git"
+    "url": "git+https://github.com/jpe230/keyboards.git"
   },
   "author": "",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/the-via/keyboards/issues"
+    "url": "https://github.com/jpe230/keyboards/issues"
   },
-  "homepage": "https://github.com/the-via/keyboards#readme",
+  "homepage": "https://github.com/jpe230/keyboards#readme",
   "devDependencies": {
     "@types/fs-extra": "^9.0.9",
     "@types/node-static": "^0.7.7",
